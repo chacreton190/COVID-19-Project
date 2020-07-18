@@ -1,0 +1,70 @@
+COUNTY,AWAITING_TESTING,INCONCLUSIVE,NEGATIVE,POSITIVE,PERCENT_POSITIVE,TOTAL_TESTED,FILE_NAME
+Dade,204,210,31239,6826,18,38275,html version of FL COVID Rep 04-12-2020
+Broward,69,25,20900,2865,12,23790,html version of FL COVID Rep 04-12-2020
+Palm Beach,84,112,8565,1609,16,10286,html version of FL COVID Rep 04-12-2020
+Orange,16,6,9744,942,9,10692,html version of FL COVID Rep 04-12-2020
+Hillsborough,9,27,10834,740,6,11601,html version of FL COVID Rep 04-12-2020
+Duval,77,12,11746,649,5,12407,html version of FL COVID Rep 04-12-2020
+Lee,22,3,4971,604,11,5578,html version of FL COVID Rep 04-12-2020
+Pinellas,61,8,8143,451,5,8602,html version of FL COVID Rep 04-12-2020
+Collier,14,1,2953,356,11,3310,html version of FL COVID Rep 04-12-2020
+Osceola,65,1,2128,321,13,2450,html version of FL COVID Rep 04-12-2020
+Seminole,13,1,2672,251,9,2924,html version of FL COVID Rep 04-12-2020
+Polk,16,3,3618,248,6,3869,html version of FL COVID Rep 04-12-2020
+Sarasota,3,1,2059,223,10,2283,html version of FL COVID Rep 04-12-2020
+Manatee,2,1,1306,223,15,1530,html version of FL COVID Rep 04-12-2020
+Escambia,17,5,3350,221,6,3576,html version of FL COVID Rep 04-12-2020
+Volusia,4,1,2085,199,9,2285,html version of FL COVID Rep 04-12-2020
+Alachua,6,9,3609,177,5,3795,html version of FL COVID Rep 04-12-2020
+St. Johns,12,2,2992,170,5,3164,html version of FL COVID Rep 04-12-2020
+Clay,3,1,1844,162,8,2007,html version of FL COVID Rep 04-12-2020
+Pasco,24,5,3221,155,5,3381,html version of FL COVID Rep 04-12-2020
+St. Lucie,39,2,1692,149,8,1843,html version of FL COVID Rep 04-12-2020
+Lake,18,,2559,148,5,2707,html version of FL COVID Rep 04-12-2020
+Brevard,2,25,2333,125,5,2483,html version of FL COVID Rep 04-12-2020
+Martin,7,,987,120,11,1107,html version of FL COVID Rep 04-12-2020
+Leon,6,2,1653,114,6,1769,html version of FL COVID Rep 04-12-2020
+Charlotte,7,2,914,112,11,1028,html version of FL COVID Rep 04-12-2020
+Sumter,15,1,1021,110,10,1132,html version of FL COVID Rep 04-12-2020
+Santa Rosa,1,1,1454,107,7,1562,html version of FL COVID Rep 04-12-2020
+Okaloosa,12,,1041,93,8,1134,html version of FL COVID Rep 04-12-2020
+Marion,256,3,1651,92,5,1746,html version of FL COVID Rep 04-12-2020
+Indian River,41,,897,74,8,971,html version of FL COVID Rep 04-12-2020
+Hernando,1,,953,69,7,1022,html version of FL COVID Rep 04-12-2020
+Citrus,4,3,835,68,8,906,html version of FL COVID Rep 04-12-2020
+Suwannee,,,248,67,21,315,html version of FL COVID Rep 04-12-2020
+Monroe,117,,571,59,9,630,html version of FL COVID Rep 04-12-2020
+Highlands,1,2,380,55,13,437,html version of FL COVID Rep 04-12-2020
+Flagler,1,1,610,46,7,657,html version of FL COVID Rep 04-12-2020
+Bay,,,487,36,7,523,html version of FL COVID Rep 04-12-2020
+Putnam,3,,766,35,4,801,html version of FL COVID Rep 04-12-2020
+Nassau,2,,630,33,5,663,html version of FL COVID Rep 04-12-2020
+Walton,1,1,288,30,9,319,html version of FL COVID Rep 04-12-2020
+Bradford,5,,250,29,10,279,html version of FL COVID Rep 04-12-2020
+Columbia,7,,383,25,6,408,html version of FL COVID Rep 04-12-2020
+Desoto,2,,273,20,7,293,html version of FL COVID Rep 04-12-2020
+Baker,,,204,17,8,221,html version of FL COVID Rep 04-12-2020
+Hendry,,,185,17,8,202,html version of FL COVID Rep 04-12-2020
+Gadsden,,,153,16,9,169,html version of FL COVID Rep 04-12-2020
+Madison,,,96,14,13,110,html version of FL COVID Rep 04-12-2020
+Jefferson,,,54,12,18,66,html version of FL COVID Rep 04-12-2020
+Levy,1,,257,8,3,265,html version of FL COVID Rep 04-12-2020
+Wakulla,,,164,7,4,171,html version of FL COVID Rep 04-12-2020
+Jackson,,,180,6,3,186,html version of FL COVID Rep 04-12-2020
+Okeechobee,1,,191,5,3,196,html version of FL COVID Rep 04-12-2020
+Washington,6,,100,5,5,105,html version of FL COVID Rep 04-12-2020
+Calhoun,,,53,5,9,58,html version of FL COVID Rep 04-12-2020
+Gilchrist,,,110,4,4,114,html version of FL COVID Rep 04-12-2020
+Glades,,,27,4,13,31,html version of FL COVID Rep 04-12-2020
+Hardee,,,64,3,4,67,html version of FL COVID Rep 04-12-2020
+Union,1,,109,2,2,111,html version of FL COVID Rep 04-12-2020
+Dixie,1,,108,2,2,110,html version of FL COVID Rep 04-12-2020
+Holmes,5,,82,2,2,84,html version of FL COVID Rep 04-12-2020
+Hamilton,1,,67,2,3,69,html version of FL COVID Rep 04-12-2020
+Franklin,,,50,2,4,52,html version of FL COVID Rep 04-12-2020
+Unknown,12,,32,2,6,34,html version of FL COVID Rep 04-12-2020
+Taylor,,,116,1,1,117,html version of FL COVID Rep 04-12-2020
+Gulf,,,85,1,1,86,html version of FL COVID Rep 04-12-2020
+Lafayette,,,35,1,3,36,html version of FL COVID Rep 04-12-2020
+Liberty,,,21,1,5,22,html version of FL COVID Rep 04-12-2020
+Total,1297,477,163398,19347,11,183222,html version of FL COVID Rep 04-12-2020

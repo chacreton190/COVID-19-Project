@@ -1,0 +1,59 @@
+County,Negative,Positive,Percent positive,Total,Date,Awaiting Testing,file_name
+Alachua,34.0,4,5%,76,03-16-2020,38,Florida COVID-19 Data 03-16-2020.txt
+Baker,1.0,0,0%,3,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Bay,3.0,0,0%,4,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Bradford,2.0,0,0%,3,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Brevard,5.0,0,0%,7,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Broward,153.0,47,11%,426,03-16-2020,226,Florida COVID-19 Data 03-16-2020.txt
+Charlotte,4.0,1,10%,10,03-16-2020,5,Florida COVID-19 Data 03-16-2020.txt
+Citrus,1.0,1,20%,5,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Clay,7.0,3,23%,13,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Collier,32.0,7,9%,76,03-16-2020,37,Florida COVID-19 Data 03-16-2020.txt
+Columbia,5.0,0,0%,7,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Dade,90.0,25,9%,289,03-16-2020,174,Florida COVID-19 Data 03-16-2020.txt
+Desoto,4.0,0,0%,4,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Dixie,2.0,0,0%,2,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Duval,19.0,5,10%,50,03-16-2020,26,Florida COVID-19 Data 03-16-2020.txt
+Escambia,11.0,1,7%,15,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Flagler,3.0,0,0%,9,03-16-2020,6,Florida COVID-19 Data 03-16-2020.txt
+Franklin,0.0,0,0%,1,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Gadsden,0.0,1,100%,1,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Gulf,1.0,0,0%,1,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Hardee,1.0,0,0%,1,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Hendry,0.0,0,0%,1,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Hernando,0.0,0,0%,3,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Hillsborough,32.0,6,11%,57,03-16-2020,19,Florida COVID-19 Data 03-16-2020.txt
+Indian River,6.0,0,0%,12,03-16-2020,6,Florida COVID-19 Data 03-16-2020.txt
+Jackson,1.0,0,0%,3,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Lafayette,1.0,0,0%,1,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Lake,7.0,1,11%,9,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Lee,27.0,6,12%,49,03-16-2020,16,Florida COVID-19 Data 03-16-2020.txt
+Leon,4.0,1,20%,5,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Levy,1.0,0,0%,1,03-16-2020,0,Florida COVID-19 Data 03-16-2020.txt
+Manatee,17.0,5,19%,27,03-16-2020,5,Florida COVID-19 Data 03-16-2020.txt
+Marion,8.0,0,0%,20,03-16-2020,12,Florida COVID-19 Data 03-16-2020.txt
+Martin,0.0,0,0%,2,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Monroe,5.0,0,0%,16,03-16-2020,11,Florida COVID-19 Data 03-16-2020.txt
+Nassau,4.0,1,13%,8,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Okaloosa,18.0,2,7%,29,03-16-2020,9,Florida COVID-19 Data 03-16-2020.txt
+Okeechobee,3.0,0,0%,6,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Orange,15.0,4,16%,25,03-16-2020,6,Florida COVID-19 Data 03-16-2020.txt
+Osceola,9.0,5,16%,32,03-16-2020,18,Florida COVID-19 Data 03-16-2020.txt
+Palm Beach,25.0,9,18%,49,03-16-2020,15,Florida COVID-19 Data 03-16-2020.txt
+Pasco,15.0,2,8%,24,03-16-2020,7,Florida COVID-19 Data 03-16-2020.txt
+Pinellas,33.0,4,4%,102,03-16-2020,65,Florida COVID-19 Data 03-16-2020.txt
+Polk,15.0,0,0%,23,03-16-2020,8,Florida COVID-19 Data 03-16-2020.txt
+Putnam,8.0,0,0%,9,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Santa Rosa,8.0,1,8%,13,03-16-2020,4,Florida COVID-19 Data 03-16-2020.txt
+Sarasota,117.0,4,3%,147,03-16-2020,26,Florida COVID-19 Data 03-16-2020.txt
+Seminole,8.0,4,14%,28,03-16-2020,16,Florida COVID-19 Data 03-16-2020.txt
+St. Johns,24.0,3,5%,55,03-16-2020,28,Florida COVID-19 Data 03-16-2020.txt
+St. Lucie,2.0,0,0%,5,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Sumter,7.0,0,0%,16,03-16-2020,9,Florida COVID-19 Data 03-16-2020.txt
+Suwannee,2.0,0,0%,3,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Total,816.0,160,9%,"1,824",03-16-2020,848,Florida COVID-19 Data 03-16-2020.txt
+Union,1.0,0,0%,2,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt
+Unknown,0.0,0,0%,2,03-16-2020,2,Florida COVID-19 Data 03-16-2020.txt
+Volusia,15.0,7,21%,33,03-16-2020,11,Florida COVID-19 Data 03-16-2020.txt
+Walton,0.0,0,0%,3,03-16-2020,3,Florida COVID-19 Data 03-16-2020.txt
+Washington,0.0,0,0%,1,03-16-2020,1,Florida COVID-19 Data 03-16-2020.txt

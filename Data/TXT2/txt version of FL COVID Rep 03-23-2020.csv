@@ -1,0 +1,68 @@
+COUNTY,AWAITING_TESTING,NEGATIVE,POSITIVE,INCONCLUSIVE,TOTAL_TESTED,PERCENT_POSITIVE,FILE_NAME
+Dade,86,1736,267,1,2004,13,html version of FL COVID Rep 03-23-2020
+Broward,185,1876,258,0,2134,12,html version of FL COVID Rep 03-23-2020
+Palm Beach,11,510,89,0,599,15,html version of FL COVID Rep 03-23-2020
+Hillsborough,6,1134,73,0,1207,6,html version of FL COVID Rep 03-23-2020
+Duval,42,427,46,0,473,10,html version of FL COVID Rep 03-23-2020
+Orange,13,665,45,0,710,6,html version of FL COVID Rep 03-23-2020
+Pinellas,27,533,40,0,573,7,html version of FL COVID Rep 03-23-2020
+Alachua,27,547,37,0,584,6,html version of FL COVID Rep 03-23-2020
+Collier,34,241,34,0,275,12,html version of FL COVID Rep 03-23-2020
+Lee,19,186,28,0,214,13,html version of FL COVID Rep 03-23-2020
+Osceola,64,176,24,0,200,12,html version of FL COVID Rep 03-23-2020
+Seminole,23,236,20,0,256,8,html version of FL COVID Rep 03-23-2020
+Sarasota,44,314,19,0,333,6,html version of FL COVID Rep 03-23-2020
+St. Johns,26,210,18,0,228,8,html version of FL COVID Rep 03-23-2020
+Manatee,3,106,15,0,121,12,html version of FL COVID Rep 03-23-2020
+Volusia,5,120,15,0,135,11,html version of FL COVID Rep 03-23-2020
+Okaloosa,6,51,14,0,65,22,html version of FL COVID Rep 03-23-2020
+Pasco,10,202,13,0,215,6,html version of FL COVID Rep 03-23-2020
+Polk,21,198,13,0,211,6,html version of FL COVID Rep 03-23-2020
+Citrus,8,63,9,0,72,13,html version of FL COVID Rep 03-23-2020
+Clay,7,77,8,0,85,9,html version of FL COVID Rep 03-23-2020
+Indian River,3,76,8,0,84,10,html version of FL COVID Rep 03-23-2020
+Sumter,1,64,8,0,72,11,html version of FL COVID Rep 03-23-2020
+Brevard,1,103,7,0,110,6,html version of FL COVID Rep 03-23-2020
+Lake,4,139,7,0,146,5,html version of FL COVID Rep 03-23-2020
+Escambia,3,55,5,0,60,8,html version of FL COVID Rep 03-23-2020
+Hernando,6,72,5,0,77,6,html version of FL COVID Rep 03-23-2020
+Leon,11,130,5,0,135,4,html version of FL COVID Rep 03-23-2020
+Walton,13,20,5,0,25,20,html version of FL COVID Rep 03-23-2020
+Marion,45,82,4,0,86,5,html version of FL COVID Rep 03-23-2020
+Baker,2,13,3,0,16,19,html version of FL COVID Rep 03-23-2020
+Charlotte,0,53,3,0,56,5,html version of FL COVID Rep 03-23-2020
+Flagler,1,52,3,0,55,5,html version of FL COVID Rep 03-23-2020
+Santa Rosa,5,45,3,0,48,6,html version of FL COVID Rep 03-23-2020
+St. Lucie,4,88,3,0,91,3,html version of FL COVID Rep 03-23-2020
+Columbia,14,25,2,0,27,7,html version of FL COVID Rep 03-23-2020
+Highlands,1,10,2,0,12,17,html version of FL COVID Rep 03-23-2020
+Martin,1,54,2,0,56,4,html version of FL COVID Rep 03-23-2020
+Monroe,17,43,2,0,45,4,html version of FL COVID Rep 03-23-2020
+Putnam,29,53,2,0,55,4,html version of FL COVID Rep 03-23-2020
+Bay,0,31,1,0,32,3,html version of FL COVID Rep 03-23-2020
+Bradford,0,16,1,0,17,6,html version of FL COVID Rep 03-23-2020
+Desoto,9,8,1,0,9,11,html version of FL COVID Rep 03-23-2020
+Gadsden,0,14,1,0,15,7,html version of FL COVID Rep 03-23-2020
+Jackson,1,19,1,0,20,5,html version of FL COVID Rep 03-23-2020
+Nassau,0,21,1,0,22,5,html version of FL COVID Rep 03-23-2020
+Unknown,2,5,1,0,6,17,html version of FL COVID Rep 03-23-2020
+Calhoun,0,5,0,0,5,0,html version of FL COVID Rep 03-23-2020
+Dixie,0,6,0,0,6,0,html version of FL COVID Rep 03-23-2020
+Franklin,1,10,0,0,10,0,html version of FL COVID Rep 03-23-2020
+Gilchrist,0,5,0,0,5,0,html version of FL COVID Rep 03-23-2020
+Gulf,2,10,0,0,10,0,html version of FL COVID Rep 03-23-2020
+Hamilton,3,2,0,0,2,0,html version of FL COVID Rep 03-23-2020
+Hardee,0,6,0,0,6,0,html version of FL COVID Rep 03-23-2020
+Hendry,2,12,0,0,12,0,html version of FL COVID Rep 03-23-2020
+Holmes,0,6,0,0,6,0,html version of FL COVID Rep 03-23-2020
+Jefferson,0,5,0,0,5,0,html version of FL COVID Rep 03-23-2020
+Lafayette,0,5,0,0,5,0,html version of FL COVID Rep 03-23-2020
+Levy,0,18,0,0,18,0,html version of FL COVID Rep 03-23-2020
+Madison,0,6,0,0,6,0,html version of FL COVID Rep 03-23-2020
+Okeechobee,3,14,0,0,14,0,html version of FL COVID Rep 03-23-2020
+Suwannee,4,13,0,0,13,0,html version of FL COVID Rep 03-23-2020
+Taylor,2,8,0,0,8,0,html version of FL COVID Rep 03-23-2020
+Union,0,15,0,0,15,0,html version of FL COVID Rep 03-23-2020
+Wakulla,1,9,0,0,9,0,html version of FL COVID Rep 03-23-2020
+Washington,1,9,0,0,9,0,html version of FL COVID Rep 03-23-2020
+Total,859,11063,1171,1,12235,10,html version of FL COVID Rep 03-23-2020
