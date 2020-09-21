@@ -2,6 +2,8 @@
 PROC DATASETS NOPRINT LIB=WORK KILL;
 RUN;
 QUIT;
+ 
+%let today = 8-30-2020;
 
 DM LOG "CLEAR;";
 
@@ -9,7 +11,7 @@ DM LOG "CLEAR;";
 *//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////;
 
 	%MACRO IMPORTER(DSET, FILE);
-	PROC IMPORT OUT = T_&DSET DATAFILE= "C:\Users\chacr\OneDrive\Documents\Coding\Python\USF\COVID-19 Project\Data\&FILE"
+	PROC IMPORT OUT = T_&DSET DATAFILE= "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\&FILE"
 	DBMS = XLSX REPLACE;
 	GETNAMES= YES;
 	DATAROW = 2;
@@ -78,7 +80,7 @@ DM LOG "CLEAR;";
 	RUN;
 	QUIT;
 
-	proc import out = RWJ1 datafile= "C:\Users\chacr\OneDrive\Documents\Coding\Python\USF\COVID-19 Project\Data\RWJ Data\FL_CHR_2020.xls"
+	proc import out = RWJ1 datafile= "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\RWJ Data\FL_CHR_2020.xls"
 	DBMS = xls REPLACE;
 	GETNAMES = YES;
 	DATAROW=2;
@@ -92,7 +94,7 @@ DM LOG "CLEAR;";
 *IMPORTING COVID DATA;
 *//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////;
 
-	proc import out = covid1 datafile= "C:\Users\chacr\OneDrive\USF\Course Work\2019-2020\Summer 20\DR-Long Data\Data\Final COVID Only Dataset 7-17-2020 (CLEAN).xlsx"
+	proc import out = covid1 datafile= "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\Final COVID Only Dataset &today (CLEAN).xlsx"
 	DBMS = xlsx REPLACE;
 	GETNAMES = YES;
 	DATAROW=2;
@@ -153,7 +155,7 @@ day
 	RUN;
 	%MEND;
 	
-	%IMPORTER2(DICT, "C:\Users\chacr\OneDrive\USF\Course Work\2019-2020\Summer 20\DR-Long Data\Data\Florida COVID Data Project Data Dictionary 7-14-20.xlsx", "Sheet1");
+	%IMPORTER2(DICT, "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\Florida COVID Data Project Data Dictionary 7-14-20.xlsx", "Sheet1");
 /*	%IMPORTER2(VALID, "C:\Users\Daniel chacreton\Documents\Python\USF\COVID-19 Project\Data\Data Dictionary.xlsx", "Validation Check");*/
 
 	%MACRO EXPORTER (DSET, FILEPATH, SHEET);
@@ -163,8 +165,8 @@ day
 	RUN;
 	%MEND;
 
-		%EXPORTER (FINAL_COMPLETE, "C:\Users\chacr\OneDrive\USF\Course Work\2019-2020\Summer 20\DR-Long Data\Data\Final Combined Dataset COVID & Census (7-14-20)", "PROJECT_DATASET");
-		%EXPORTER (DICT, "C:\Users\chacr\OneDrive\USF\Course Work\2019-2020\Summer 20\DR-Long Data\Data\Final Combined Dataset COVID & Census (7-14-20)", "DICTIONARY");
-		%EXPORTER (COMPLETE_MULTI, "C:\Users\chacr\OneDrive\USF\Course Work\2019-2020\Summer 20\DR-Long Data\Data\COVID Multi-state Model Data set (7-14-20)", "Project_Dataset");
+		%EXPORTER (FINAL_COMPLETE, "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\Final Combined Dataset COVID & Census (7-14-20)", "PROJECT_DATASET");
+		%EXPORTER (DICT, "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\Final Combined Dataset COVID & Census (7-14-20)", "DICTIONARY");
+		%EXPORTER (COMPLETE_MULTI, "C:\Users\chacr\OneDrive\Documents\Coding\COVID-19 Project\Data\COVID Multi-state Model Data set (7-14-20)", "Project_Dataset");
 /*		%EXPORTER (VALID, "C:\Users\Daniel chacreton\Documents\Python\USF\COVID-19 Project\Data\Final Combined Dataset COVID & Census (7-14-20)", "vALIDATION");*/
 

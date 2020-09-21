@@ -1,0 +1,70 @@
+	COUNTY
+Indian River	157
+St. Johns	157
+Clay	157
+Hernando	157
+Seminole	157
+Lee	157
+Monroe	157
+Gadsden	157
+Lafayette	157
+Washington	157
+Desoto	157
+Nassau	157
+Gulf	157
+Putnam	157
+Collier	157
+Marion	157
+Levy	157
+Dixie	157
+Escambia	157
+Okeechobee	157
+Bradford	157
+Hendry	157
+Hardee	157
+Baker	157
+Union	157
+Brevard	157
+Pasco	157
+Martin	157
+Sumter	157
+Leon	157
+St. Lucie	157
+Columbia	157
+Jackson	157
+Bay	157
+Citrus	157
+Palm Beach	157
+Alachua	157
+Santa Rosa	157
+Walton	157
+Unknown	157
+Volusia	157
+Sarasota	157
+Osceola	157
+Orange	157
+Charlotte	157
+Hillsborough	157
+Manatee	157
+Franklin	157
+Suwannee	157
+Broward	157
+Pinellas	157
+Lake	157
+Duval	157
+Polk	157
+Okaloosa	157
+Miami-Dade	157
+Flagler	157
+Gilchrist	156
+Holmes	154
+Taylor	154
+Madison	154
+Wakulla	154
+Calhoun	154
+Hamilton	154
+Jefferson	154
+Highlands	154
+Glades	148
+Liberty	148
+State-Call Center	1

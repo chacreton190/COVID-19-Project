@@ -1,0 +1,70 @@
+COUNTY,AWAITING_TESTING,INCONCLUSIVE,NEGATIVE,POSITIVE,PERCENT_POSITIVE,TOTAL_TESTED,FILE_NAME
+Dade,257,1673,537740,129409,19,668822,html version of FL COVID Rep 08-07-2020
+Broward,167,726,363449,60746,14,424921,html version of FL COVID Rep 08-07-2020
+Palm Beach,261,600,237397,36114,13,274111,html version of FL COVID Rep 08-07-2020
+Orange,442,281,235511,31026,12,266818,html version of FL COVID Rep 08-07-2020
+Hillsborough,189,480,206105,31865,13,238450,html version of FL COVID Rep 08-07-2020
+Duval,170,217,183518,22889,11,206624,html version of FL COVID Rep 08-07-2020
+Pinellas,21,140,151750,17541,10,169431,html version of FL COVID Rep 08-07-2020
+Lee,26,58,96442,16248,14,112748,html version of FL COVID Rep 08-07-2020
+Polk,52,89,80656,13839,15,94584,html version of FL COVID Rep 08-07-2020
+Manatee,8,64,74538,9124,11,83726,html version of FL COVID Rep 08-07-2020
+Brevard,10,59,76098,5851,7,82008,html version of FL COVID Rep 08-07-2020
+Volusia,61,100,64647,7654,11,72401,html version of FL COVID Rep 08-07-2020
+Sarasota,23,49,66236,6095,8,72380,html version of FL COVID Rep 08-07-2020
+Alachua,3,23,66109,4006,6,70138,html version of FL COVID Rep 08-07-2020
+Escambia,11,42,60638,8757,13,69437,html version of FL COVID Rep 08-07-2020
+Seminole,61,64,60118,6976,10,67158,html version of FL COVID Rep 08-07-2020
+Pasco,101,47,59184,6893,10,66124,html version of FL COVID Rep 08-07-2020
+Lake,75,85,58160,4958,8,63203,html version of FL COVID Rep 08-07-2020
+Osceola,109,127,52887,9401,15,62415,html version of FL COVID Rep 08-07-2020
+Collier,207,64,51436,10202,17,61702,html version of FL COVID Rep 08-07-2020
+Leon,17,114,53338,4814,8,58266,html version of FL COVID Rep 08-07-2020
+Marion,333,91,43808,5984,12,49883,html version of FL COVID Rep 08-07-2020
+St. Lucie,269,53,36438,5625,13,42116,html version of FL COVID Rep 08-07-2020
+St. Johns,44,32,36550,3552,9,40134,html version of FL COVID Rep 08-07-2020
+Clay,13,17,30896,3186,9,34099,html version of FL COVID Rep 08-07-2020
+Okaloosa,34,45,25368,3391,12,28804,html version of FL COVID Rep 08-07-2020
+Santa Rosa,17,36,24164,3791,14,27991,html version of FL COVID Rep 08-07-2020
+Indian River,53,16,24037,2450,9,26503,html version of FL COVID Rep 08-07-2020
+Charlotte,11,32,23425,2174,8,25631,html version of FL COVID Rep 08-07-2020
+Bay,9,51,21206,4194,16,25451,html version of FL COVID Rep 08-07-2020
+Martin,52,39,21505,3767,15,25311,html version of FL COVID Rep 08-07-2020
+Hernando,2,13,16576,1929,10,18518,html version of FL COVID Rep 08-07-2020
+Citrus,32,11,16574,1473,8,18058,html version of FL COVID Rep 08-07-2020
+Sumter,26,13,16171,1237,7,17421,html version of FL COVID Rep 08-07-2020
+Highlands,8,14,14254,1355,9,15623,html version of FL COVID Rep 08-07-2020
+Nassau,32,17,13503,1202,8,14722,html version of FL COVID Rep 08-07-2020
+Flagler,5,20,13637,1008,7,14665,html version of FL COVID Rep 08-07-2020
+Columbia,4,55,10487,2784,21,13326,html version of FL COVID Rep 08-07-2020
+Monroe,63,12,11766,1456,11,13234,html version of FL COVID Rep 08-07-2020
+Putnam,2,9,11151,1465,12,12625,html version of FL COVID Rep 08-07-2020
+Gadsden,6,38,10764,1781,14,12583,html version of FL COVID Rep 08-07-2020
+Jackson,5,13,9600,1832,16,11445,html version of FL COVID Rep 08-07-2020
+Desoto,5,7,8110,1327,14,9444,html version of FL COVID Rep 08-07-2020
+Walton,2,41,7996,1345,14,9382,html version of FL COVID Rep 08-07-2020
+Hendry,1,18,6481,1725,21,8224,html version of FL COVID Rep 08-07-2020
+Wakulla,4,34,6925,662,9,7621,html version of FL COVID Rep 08-07-2020
+Suwannee,1,13,5968,1356,18,7337,html version of FL COVID Rep 08-07-2020
+Okeechobee,2,14,5439,1013,16,6466,html version of FL COVID Rep 08-07-2020
+Levy,2,10,5440,652,11,6102,html version of FL COVID Rep 08-07-2020
+Unknown,4,34,5206,660,11,5900,html version of FL COVID Rep 08-07-2020
+Washington,18,18,4641,807,15,5466,html version of FL COVID Rep 08-07-2020
+Taylor,7,27,4164,936,18,5127,html version of FL COVID Rep 08-07-2020
+Madison,1,10,4366,686,14,5062,html version of FL COVID Rep 08-07-2020
+Baker,22,8,4388,630,13,5026,html version of FL COVID Rep 08-07-2020
+Hardee,,11,4089,908,18,5008,html version of FL COVID Rep 08-07-2020
+Union,,6,4539,291,6,4836,html version of FL COVID Rep 08-07-2020
+Bradford,1,19,3938,434,10,4391,html version of FL COVID Rep 08-07-2020
+Gulf,,5,3755,569,13,4329,html version of FL COVID Rep 08-07-2020
+Holmes,4,7,3699,486,12,4192,html version of FL COVID Rep 08-07-2020
+Hamilton,1,2,3392,612,15,4006,html version of FL COVID Rep 08-07-2020
+Franklin,2,10,3223,377,10,3610,html version of FL COVID Rep 08-07-2020
+Gilchrist,3,7,3204,345,10,3556,html version of FL COVID Rep 08-07-2020
+Calhoun,1,17,2865,417,13,3299,html version of FL COVID Rep 08-07-2020
+Liberty,,,2663,395,13,3058,html version of FL COVID Rep 08-07-2020
+Dixie,,5,2572,424,14,3001,html version of FL COVID Rep 08-07-2020
+Jefferson,1,14,2466,447,15,2927,html version of FL COVID Rep 08-07-2020
+Glades,1,2,711,398,36,1111,html version of FL COVID Rep 08-07-2020
+Lafayette,,3,787,129,14,919,html version of FL COVID Rep 08-07-2020
+Total,3374,6071,3378864,518075,13,3903010,html version of FL COVID Rep 08-07-2020
