@@ -24,6 +24,10 @@ pp.pelt=cpt.meanvar(pp$median,method='PELT',minseglen=1 )
 cpts(pp.pelt)
 plot(pp.pelt, main='Change Point Analysis FL Weekly COVID-19 Percent Pos. Ratio', col='Black' ,ylab= 'Median')
 
+pp.pelt=cpt.meanvar(pp$median,method='SegNeigh',minseglen=1 )
+cpts(pp.pelt)
+plot(pp.pelt, main='Change Point Analysis FL Weekly COVID-19 Percent Pos. Ratio', col='Black' ,ylab= 'Median')
+
 case_med.pelt=cpt.meanvar(case$median,method='PELT',minseglen=2,test.stat = 'Poisson'  )
 cpts(case_med.pelt)
 plot(case_med.pelt, main='Change Point Analysis FL Weekly COVID-19 Med. Case Count', col='brown', ylab= 'Median')
